@@ -1,7 +1,7 @@
 /*
  * ============================================
  *   Advanced Calculator in C
- *   Author: Your Name
+ *   Author: Soham
  *   Description: A fully functional calculator
  *                supporting basic & advanced ops
  * ============================================
